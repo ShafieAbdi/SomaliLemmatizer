@@ -1270,7 +1270,7 @@
 "teknoloji":["teknolojiyadda","teknoloji"],
 "horgee":["horgeeyo","horgee","horgeeya"],
 "shiinaha":["shiinaha","shiine"],
-"cumar":["cumar","omar","omareyn","omreyn],
+"cumar":["cumar","omar","omareyn","omreyn"],
 "falceli":["falceliyey","falceli","falceliya","falceliyaha","falcelsha"],
 "codso":["codsaday","codsigan","codsigaan","codsada","codsadaha","codsigooda","codsiyada","codso"],
 "hag":["hag","hagay","haga","hagaya"],
